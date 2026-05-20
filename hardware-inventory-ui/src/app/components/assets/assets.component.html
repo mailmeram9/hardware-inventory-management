@@ -1,0 +1,58 @@
+<div class="container">
+
+  <h2>Hardware Inventory Management</h2>
+
+  <div class="form-container">
+
+    <input type="text"
+           placeholder="Asset Name"
+           [(ngModel)]="newAsset.assetName">
+
+    <input type="text"
+           placeholder="Asset Type"
+           [(ngModel)]="newAsset.assetType">
+
+    <input type="text"
+           placeholder="Status"
+           [(ngModel)]="newAsset.status">
+
+    <button (click)="addAsset()">
+      Add Asset
+    </button>
+
+  </div>
+
+  <table>
+
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Asset Name</th>
+        <th>Asset Type</th>
+        <th>Status</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+
+    <tbody>
+
+      <tr *ngFor="let asset of assets">
+
+        <td>{{ asset.assetID }}</td>
+        <td>{{ asset.assetName }}</td>
+        <td>{{ asset.assetType }}</td>
+        <td>{{ asset.status }}</td>
+
+        <td>
+          <button (click)="deleteAsset(asset.assetID!)">
+            Delete
+          </button>
+        </td>
+
+      </tr>
+
+    </tbody>
+
+  </table>
+
+</div>

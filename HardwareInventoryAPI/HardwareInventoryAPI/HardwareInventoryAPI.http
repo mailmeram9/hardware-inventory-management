@@ -1,0 +1,6 @@
+@HardwareInventoryAPI_HostAddress = http://localhost:5170
+
+GET {{HardwareInventoryAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

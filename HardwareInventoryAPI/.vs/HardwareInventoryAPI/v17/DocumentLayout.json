@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\hardware-inventory-management\\HardwareInventoryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F138BA-0158-46A0-966B-E27CA4A2A712}|HardwareInventoryAPI\\HardwareInventoryAPI.csproj|c:\\hardware-inventory-management\\hardwareinventoryapi\\hardwareinventoryapi\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F138BA-0158-46A0-966B-E27CA4A2A712}|HardwareInventoryAPI\\HardwareInventoryAPI.csproj|solutionrelative:hardwareinventoryapi\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F138BA-0158-46A0-966B-E27CA4A2A712}|HardwareInventoryAPI\\HardwareInventoryAPI.csproj|c:\\hardware-inventory-management\\hardwareinventoryapi\\hardwareinventoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F138BA-0158-46A0-966B-E27CA4A2A712}|HardwareInventoryAPI\\HardwareInventoryAPI.csproj|solutionrelative:hardwareinventoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F138BA-0158-46A0-966B-E27CA4A2A712}|HardwareInventoryAPI\\HardwareInventoryAPI.csproj|c:\\hardware-inventory-management\\hardwareinventoryapi\\hardwareinventoryapi\\hardwareinventoryapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{81F138BA-0158-46A0-966B-E27CA4A2A712}|HardwareInventoryAPI\\HardwareInventoryAPI.csproj|solutionrelative:hardwareinventoryapi\\hardwareinventoryapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F138BA-0158-46A0-966B-E27CA4A2A712}|HardwareInventoryAPI\\HardwareInventoryAPI.csproj|c:\\hardware-inventory-management\\hardwareinventoryapi\\hardwareinventoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81F138BA-0158-46A0-966B-E27CA4A2A712}|HardwareInventoryAPI\\HardwareInventoryAPI.csproj|solutionrelative:hardwareinventoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F138BA-0158-46A0-966B-E27CA4A2A712}|HardwareInventoryAPI\\HardwareInventoryAPI.csproj|c:\\hardware-inventory-management\\hardwareinventoryapi\\hardwareinventoryapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F138BA-0158-46A0-966B-E27CA4A2A712}|HardwareInventoryAPI\\HardwareInventoryAPI.csproj|solutionrelative:hardwareinventoryapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F138BA-0158-46A0-966B-E27CA4A2A712}|HardwareInventoryAPI\\HardwareInventoryAPI.csproj|c:\\hardware-inventory-management\\hardwareinventoryapi\\hardwareinventoryapi\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F138BA-0158-46A0-966B-E27CA4A2A712}|HardwareInventoryAPI\\HardwareInventoryAPI.csproj|solutionrelative:hardwareinventoryapi\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetsController.cs",
+              "DocumentMoniker": "C:\\hardware-inventory-management\\HardwareInventoryAPI\\HardwareInventoryAPI\\Controllers\\AssetsController.cs",
+              "RelativeDocumentMoniker": "HardwareInventoryAPI\\Controllers\\AssetsController.cs",
+              "ToolTip": "C:\\hardware-inventory-management\\HardwareInventoryAPI\\HardwareInventoryAPI\\Controllers\\AssetsController.cs",
+              "RelativeToolTip": "HardwareInventoryAPI\\Controllers\\AssetsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:53:08.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\hardware-inventory-management\\HardwareInventoryAPI\\HardwareInventoryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HardwareInventoryAPI\\Program.cs",
+              "ToolTip": "C:\\hardware-inventory-management\\HardwareInventoryAPI\\HardwareInventoryAPI\\Program.cs",
+              "RelativeToolTip": "HardwareInventoryAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:47:31.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HardwareInventoryAPI.http",
+              "DocumentMoniker": "C:\\hardware-inventory-management\\HardwareInventoryAPI\\HardwareInventoryAPI\\HardwareInventoryAPI.http",
+              "RelativeDocumentMoniker": "HardwareInventoryAPI\\HardwareInventoryAPI.http",
+              "ToolTip": "C:\\hardware-inventory-management\\HardwareInventoryAPI\\HardwareInventoryAPI\\HardwareInventoryAPI.http",
+              "RelativeToolTip": "HardwareInventoryAPI\\HardwareInventoryAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-19T23:47:21.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\hardware-inventory-management\\HardwareInventoryAPI\\HardwareInventoryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HardwareInventoryAPI\\appsettings.json",
+              "ToolTip": "C:\\hardware-inventory-management\\HardwareInventoryAPI\\HardwareInventoryAPI\\appsettings.json",
+              "RelativeToolTip": "HardwareInventoryAPI\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-19T23:45:26.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\hardware-inventory-management\\HardwareInventoryAPI\\HardwareInventoryAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HardwareInventoryAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\hardware-inventory-management\\HardwareInventoryAPI\\HardwareInventoryAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HardwareInventoryAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:41:15.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\hardware-inventory-management\\HardwareInventoryAPI\\HardwareInventoryAPI\\Models\\Asset.cs",
+              "RelativeDocumentMoniker": "HardwareInventoryAPI\\Models\\Asset.cs",
+              "ToolTip": "C:\\hardware-inventory-management\\HardwareInventoryAPI\\HardwareInventoryAPI\\Models\\Asset.cs",
+              "RelativeToolTip": "HardwareInventoryAPI\\Models\\Asset.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T23:36:40.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
